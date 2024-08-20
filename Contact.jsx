@@ -15,7 +15,7 @@ const Contact = () => {
               <span className="font-bold">Email:</span> vallimayil0405@gmail.com
             </p>
             <p className="text-lg mb-4">
-              <span className="font-bold">Phone:</span>  9360119714
+              <span className="font-bold">Phone:</span> phone number
             </p>
             <p className="text-lg mb-4">
               <span className="font-bold">Social Media:</span>
